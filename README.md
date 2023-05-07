@@ -27,6 +27,11 @@ In root directory, create .env file and define VITE_OPENAI_API_KEY variable, get
 npm run dev to start dev server 
 ```
 
+## Built With
+
+* [Chakra UI]([http://www.dropwizard.io/1.0.2/docs/](https://chakra-ui.com/))
+* [React]([https://maven.apache.org/](https://react.dev/)) 
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
