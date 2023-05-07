@@ -16,7 +16,13 @@ git clone < project-url.git >
 ```
 - Install dependencies
 ```
-open terminal, cd into project directory. npm install or yarn
+Open terminal, cd into project directory. npm install or yarn add
+```
+```
+In root directory, create .env file and define VITE_OPENAI_API_KEY variable, get value from openAI dashboard > API Reference > Completions. 
+```
+```
+npm run dev to start dev server 
 ```
 
 ## License
